@@ -3,4 +3,9 @@
 git fetch origin master
 git cherry-pick filename
 git rebase master
-git branch -M prod
+git branch -M pro
+
+touch
+vi
+cat
+
